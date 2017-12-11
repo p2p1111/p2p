@@ -1,4 +1,4 @@
-package com.my.db;
+package com.test.entity;
 
 public class T_station_information {
   private Long s_id;

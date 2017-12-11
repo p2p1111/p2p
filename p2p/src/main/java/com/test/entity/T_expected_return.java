@@ -1,4 +1,4 @@
-package com.my.db;
+package com.test.entity;
 
 public class T_expected_return {
   private Long t_id;

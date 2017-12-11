@@ -1,4 +1,4 @@
-package com.my.db;
+package com.test.entity;
 
 public class T_funding_not_matched {
   private Long f_id;

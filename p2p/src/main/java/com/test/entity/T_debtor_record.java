@@ -1,5 +1,4 @@
-package com.my.db;
-
+package com.test.entity;
 public class T_debtor_record {
   private Long t_id;
   private Long t_claims_id;

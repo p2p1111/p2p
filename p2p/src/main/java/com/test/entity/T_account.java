@@ -1,5 +1,4 @@
-package com.my.db;
-
+package com.test.entity;
 public class T_account {
   private Long t_id;
   private Long t_userid;

@@ -1,4 +1,4 @@
-package com.my.db;
+package com.test.entity;
 
 public class A_account_log {
   private Long a_id;

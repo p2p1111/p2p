@@ -1,4 +1,4 @@
-package com.my.db;
+package com.test.entity;
 
 public class D_debt_info {
   private Long d_id;
